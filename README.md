@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Osman Ertunc</h1>
-<h3 align="center">A passionate UK based Data/Analytics Engineer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Osman</h1>
+<h3 align="left">A passionate UK based Data/Analytics Engineer from Turkey</h3>
 
 - 💬 Ask me about **Python, SQL, DBT, Cloud Technologies**
 
