@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Osman</h1>
-<h3 align="left">A  UK based Data Engineer</h3>
+<h1 align="left">Hi 👋 I'm Osman</h1>
+<h3 align="left">Data Engineer</h3>
 
 - 💬 Ask me about **Python, SQL, DBT, Cloud Technologies**
 
