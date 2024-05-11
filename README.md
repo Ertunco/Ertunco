@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python, SQL, DBT, Cloud Technologies**
 
-- 📫 How to reach me **osmanertunc95@gmail.com**
+- 📫 How to reach me **osmanertunc94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
