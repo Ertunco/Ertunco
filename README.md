@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 I'm Osman</h1>
 <h3 align="left">Data Engineer</h3>
 
-- 💬 Ask me about **Python, SQL, DBT, Cloud Technologies**
+- 💬 Ask me about **Python, SQL, DBT, Snowflake, Cloud Technologies**
 
 - 📫 How to reach me **osmanertunc94@gmail.com**
 
