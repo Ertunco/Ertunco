@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Osman</h1>
+<h1 align="left">Osman Ertunc</h1>
 <h3 align="left">Data Engineer</h3>
 
 - 💬 Ask me about **Python, SQL, DBT, Snowflake, Cloud Technologies**
