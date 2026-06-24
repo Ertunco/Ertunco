@@ -44,7 +44,7 @@ Senior Data Engineer focused on building scalable, reliable, and cost-efficient 
 
 - Building scalable data pipelines  
 - Data platform architecture  
-- Cost optimisation in cloud environments  
+- Cost optimisation  
 - Data quality and observability  
 
 ---
