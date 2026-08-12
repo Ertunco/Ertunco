@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Osman 👋</h1>
+<h1 align="left">Hello, I'm Osman 👋</h1>
 
 <p align="left">
 Senior Data Engineer focused on building scalable, reliable, and cost-efficient data platforms.
